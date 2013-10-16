@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<week>
+    <monday><!-- NOTHING --></monday>
+    <tuesday><!-- NOTHING --></tuesday>
+    <wednesday>
+        <!--
+        <program from="7:80">Winnie_The_Pooh.mp4</program>
+        <program from="12:00">TomAndJerry.mkv</program>
+        -->
+    </wednesday>
+    <thursday><!-- NOTHING --></thursday>
+    <friday>
+    </friday>
+    <saturday>
+    </saturday>
+    <sunday><!-- NOTHING --></sunday>
+</week>
